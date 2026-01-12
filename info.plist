@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleShortVersionString</key>
+	<string>$(CURRENT_PROJECT_VERSION)</string>
+	<key>CFBundleVersion</key>
+	<string>$(MARKETING_VERSION)</string>
+	<key>InputMethodConnectionName</key>
+	<string>SSimpleIME</string>
+	<key>InputMethodServerControllerClass</key>
+	<string>SSimpleController</string>
+	<key>LSApplicationCategoryType</key>
+	<string>public.app-category.utilities</string>
+	<key>NSServices</key>
+	<array>
+		<dict/>
+		<dict/>
+	</array>
+	<key>tsInputMethodCharacterRepertoireKey</key>
+	<array>
+		<string>Hang</string>
+	</array>
+</dict>
+</plist>
